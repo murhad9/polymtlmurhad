@@ -1,0 +1,10 @@
+﻿  Auteur.cpp
+  Film.cpp
+  GestionnaireAuteurs.cpp
+  Librairie.cpp
+  main.cpp
+  Utilisateur.cpp
+  Generating Code...
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Film.cpp(80,78): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\GestionnaireAuteurs.cpp(33): warning C4702: unreachable code
+  TP1-H20.vcxproj -> C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\x64\Debug\TP1-H20.exe

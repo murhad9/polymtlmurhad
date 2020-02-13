@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Murhad\Desktop\TP1-H20\TP1-H20-Windows\TP1-H20\include\</FILEPATH>
+      <FILENAME>Auteur.h</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Auteur::nbFilms_' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Auteur::{ctor}</FUNCTION>
+    <DECORATED>??0Auteur@@QEAA@XZ</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Auteur::nbFilms_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,4 @@
+﻿  exo6.cpp
+c:\users\murhad\downloads\1005c ete - programmation procedurale\td3\exo6\exo6.cpp(9): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\murhad\downloads\1005c ete - programmation procedurale\td3\exo6\exo6.cpp(40): error C2059: erreur de syntaxe : '}'
+c:\users\murhad\downloads\1005c ete - programmation procedurale\td3\exo6\exo6.cpp(40): error C2143: erreur de syntaxe : absence de ';' avant '}'

@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: _main déjà défini(e) dans exempel.obj
+C:\Users\Murhad\Downloads\1005C ETE - Programmation procedurale\TD5\Debug\TD5.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés

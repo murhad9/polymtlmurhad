@@ -1,0 +1,15 @@
+﻿  Auteur.cpp
+  Film.cpp
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Film.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
+  GestionnaireAuteurs.cpp
+  Librairie.cpp
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Film.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Utilisateur.cpp
+  Generating Code...
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP1\TP1-H20\TP1-H20-Windows\TP1-H20\src\GestionnaireAuteurs.cpp(33): warning C4702: unreachable code
+  TP1-H20.vcxproj -> C:\Users\Murhad\Documents\UNIVERSITE\INF1010 HIV\TPs\TP2\TP2-H20\Debug\TP1-H20.exe
